@@ -1,0 +1,4 @@
+1,suryansh ,shukla,8755896556,131-M Tilak nagar,ssuryansh678@gmail.com,Current,550732606164,Tue Jan 14 00:00:00 IST 2003
+550732606,NAveen,Karthik,1234567890,VIT UNiversity G-Block,naveen1234@gmail.com,Salary ,985647856235,Sat Sep 27 00:00:00 IST 2003
+1101465211,Naman,Sharma,8290256244,VIT Vellore,naman1234@gmail.com,Savings,123456789123,Wed Apr 17 00:00:00 IST 2002
+1652197816,suryansh ,shukla,8755896556,sdfvgbsxdcfvbg,dcfvgdfg@gmail.com,Current,550732606164,Tue Jan 14 00:00:00 IST 2003
